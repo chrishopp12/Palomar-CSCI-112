@@ -1,0 +1,40 @@
+Enter first number:
+28
+Enter second number:
+44
+Enter third number:
+66
+Enter fourth number:
+82
+The large number is 82 and the small number is 28
+
+Enter first number:
+8
+Enter second number:
+14
+Enter third number:
+22
+Enter fourth number:
+6
+The large number is 22 and the small number is 6
+
+Enter first number:
+21
+Enter second number:
+38
+Enter third number:
+12
+Enter fourth number:
+16
+The large number is 38 and the small number is 12
+
+Enter first number:
+98
+Enter second number:
+22
+Enter third number:
+45
+Enter fourth number:
+63
+The large number is 98 and the small number is 22
+

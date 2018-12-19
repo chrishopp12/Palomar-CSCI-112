@@ -1,0 +1,49 @@
+Enter test grade (or -1 to quit):
+78
+Enter test grade (or -1 to quit):
+93
+Enter test grade (or -1 to quit):
+45
+Enter test grade (or -1 to quit):
+88
+Enter test grade (or -1 to quit):
+89
+Enter test grade (or -1 to quit):
+-1
+Total points recieved is 393 for 5 tests
+The test average is 78
+
+Enter test grade (or -1 to quit):
+87
+Enter test grade (or -1 to quit):
+68
+Enter test grade (or -1 to quit):
+100
+Enter test grade (or -1 to quit):
+-1
+Total points recieved is 255 for 3 tests
+The test average is 85
+
+Enter test grade (or -1 to quit):
+84
+Enter test grade (or -1 to quit):
+86
+Enter test grade (or -1 to quit):
+90
+Enter test grade (or -1 to quit):
+86
+Enter test grade (or -1 to quit):
+96
+Enter test grade (or -1 to quit):
+68
+Enter test grade (or -1 to quit):
+82
+Enter test grade (or -1 to quit):
+-1
+Total points recieved is 592 for 7 tests
+The test average is 84
+
+Enter test grade (or -1 to quit):
+-1
+Total points recieved is 0 for 0 tests
+There is no average

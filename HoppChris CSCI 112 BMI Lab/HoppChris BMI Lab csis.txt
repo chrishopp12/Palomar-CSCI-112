@@ -1,0 +1,28 @@
+Enter height in inches:
+70.000000
+Enter weight in pounds:
+175.000000
+BMI is 25.1
+Overweight
+
+Enter height in inches:
+68.000000
+Enter weight in pounds:
+120.000000
+BMI is 18.2
+Underweight
+
+Enter height in inches:
+65.000000
+Enter weight in pounds:
+225.000000
+BMI is 37.4
+Obese
+
+Enter height in inches:
+67.000000
+Enter weight in pounds:
+140.000000
+BMI is 21.9
+Normal
+
